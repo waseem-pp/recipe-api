@@ -18,9 +18,3 @@ https://recipe-api-yourname.onrender.com
 | GET | /api/recipes | Get all recipes |
 | POST | /api/recipes | Add new recipe |
 
-## 📸 Screenshots
-*(Add screenshots of Postman tests and Render dashboard here)*
-
-## ⚠️ Challenges Faced
-- Handling CORS issues during frontend testing
-- JSON file write permissions on Render
